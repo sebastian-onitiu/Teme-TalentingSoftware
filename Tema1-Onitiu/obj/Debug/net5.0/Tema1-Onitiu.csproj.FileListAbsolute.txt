@@ -1,0 +1,16 @@
+C:\Users\sdo20\OneDrive\Desktop\curs1-c#\Tema1-Onitiu\obj\Debug\net5.0\Tema1-Onitiu.csproj.AssemblyReference.cache
+C:\Users\sdo20\OneDrive\Desktop\curs1-c#\Tema1-Onitiu\obj\Debug\net5.0\Tema1-Onitiu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdo20\OneDrive\Desktop\curs1-c#\Tema1-Onitiu\obj\Debug\net5.0\Tema1-Onitiu.AssemblyInfoInputs.cache
+C:\Users\sdo20\OneDrive\Desktop\curs1-c#\Tema1-Onitiu\obj\Debug\net5.0\Tema1-Onitiu.AssemblyInfo.cs
+C:\Users\sdo20\OneDrive\Desktop\curs1-c#\Tema1-Onitiu\obj\Debug\net5.0\Tema1-Onitiu.csproj.CoreCompileInputs.cache
+C:\Users\sdo20\OneDrive\Desktop\curs1-c#\Tema1-Onitiu\bin\Debug\net5.0\Tema1-Onitiu.exe
+C:\Users\sdo20\OneDrive\Desktop\curs1-c#\Tema1-Onitiu\bin\Debug\net5.0\Tema1-Onitiu.deps.json
+C:\Users\sdo20\OneDrive\Desktop\curs1-c#\Tema1-Onitiu\bin\Debug\net5.0\Tema1-Onitiu.runtimeconfig.json
+C:\Users\sdo20\OneDrive\Desktop\curs1-c#\Tema1-Onitiu\bin\Debug\net5.0\Tema1-Onitiu.runtimeconfig.dev.json
+C:\Users\sdo20\OneDrive\Desktop\curs1-c#\Tema1-Onitiu\bin\Debug\net5.0\Tema1-Onitiu.dll
+C:\Users\sdo20\OneDrive\Desktop\curs1-c#\Tema1-Onitiu\bin\Debug\net5.0\ref\Tema1-Onitiu.dll
+C:\Users\sdo20\OneDrive\Desktop\curs1-c#\Tema1-Onitiu\bin\Debug\net5.0\Tema1-Onitiu.pdb
+C:\Users\sdo20\OneDrive\Desktop\curs1-c#\Tema1-Onitiu\obj\Debug\net5.0\Tema1-Onitiu.dll
+C:\Users\sdo20\OneDrive\Desktop\curs1-c#\Tema1-Onitiu\obj\Debug\net5.0\ref\Tema1-Onitiu.dll
+C:\Users\sdo20\OneDrive\Desktop\curs1-c#\Tema1-Onitiu\obj\Debug\net5.0\Tema1-Onitiu.pdb
+C:\Users\sdo20\OneDrive\Desktop\curs1-c#\Tema1-Onitiu\obj\Debug\net5.0\Tema1-Onitiu.genruntimeconfig.cache
