@@ -1,0 +1,16 @@
+E:\Librarie\Librarie\bin\Debug\net5.0\Librarie.exe
+E:\Librarie\Librarie\bin\Debug\net5.0\Librarie.deps.json
+E:\Librarie\Librarie\bin\Debug\net5.0\Librarie.runtimeconfig.json
+E:\Librarie\Librarie\bin\Debug\net5.0\Librarie.runtimeconfig.dev.json
+E:\Librarie\Librarie\bin\Debug\net5.0\Librarie.dll
+E:\Librarie\Librarie\bin\Debug\net5.0\ref\Librarie.dll
+E:\Librarie\Librarie\bin\Debug\net5.0\Librarie.pdb
+E:\Librarie\Librarie\obj\Debug\net5.0\Librarie.csproj.AssemblyReference.cache
+E:\Librarie\Librarie\obj\Debug\net5.0\Librarie.GeneratedMSBuildEditorConfig.editorconfig
+E:\Librarie\Librarie\obj\Debug\net5.0\Librarie.AssemblyInfoInputs.cache
+E:\Librarie\Librarie\obj\Debug\net5.0\Librarie.AssemblyInfo.cs
+E:\Librarie\Librarie\obj\Debug\net5.0\Librarie.csproj.CoreCompileInputs.cache
+E:\Librarie\Librarie\obj\Debug\net5.0\Librarie.dll
+E:\Librarie\Librarie\obj\Debug\net5.0\ref\Librarie.dll
+E:\Librarie\Librarie\obj\Debug\net5.0\Librarie.pdb
+E:\Librarie\Librarie\obj\Debug\net5.0\Librarie.genruntimeconfig.cache
